@@ -1,0 +1,143 @@
+id: 5875a134b7624f52b9b0dd4bcf5988fb
+annotation_type: index
+revision: '00001'
+annotations:
+  29ffbc23acad40789eb058c2a883d169:
+    base: 8DD8.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 13
+    - title: Preface
+      span:
+        start: 14
+        end: 22
+    - title: §1
+      span:
+        start: 23
+        end: 127
+    - title: §2
+      span:
+        start: 128
+        end: 322
+    - title: §3
+      span:
+        start: 323
+        end: 438
+    - title: §4
+      span:
+        start: 439
+        end: 500
+    - title: §5
+      span:
+        start: 501
+        end: 641
+    - title: §6
+      span:
+        start: 642
+        end: 908
+    - title: §7
+      span:
+        start: 909
+        end: 994
+    - title: §8
+      span:
+        start: 995
+        end: 1168
+    - title: §9
+      span:
+        start: 1169
+        end: 1495
+    - title: §10
+      span:
+        start: 1496
+        end: 1684
+    - title: §11
+      span:
+        start: 1685
+        end: 1800
+    - title: §12
+      span:
+        start: 1801
+        end: 1878
+    - title: §13
+      span:
+        start: 1879
+        end: 2074
+    - title: §14
+      span:
+        start: 2075
+        end: 2720
+    - title: §15
+      span:
+        start: 2721
+        end: 2979
+    - title: §16
+      span:
+        start: 2980
+        end: 3205
+    - title: §17
+      span:
+        start: 3206
+        end: 3720
+    - title: §18
+      span:
+        start: 3721
+        end: 3921
+    - title: §19
+      span:
+        start: 3922
+        end: 4080
+    - title: §21
+      span:
+        start: 4081
+        end: 4190
+    - title: §22
+      span:
+        start: 4191
+        end: 4248
+    - title: §23
+      span:
+        start: 4249
+        end: 4309
+    - title: §24
+      span:
+        start: 4310
+        end: 4421
+    - title: §25
+      span:
+        start: 4422
+        end: 4522
+    - title: §26
+      span:
+        start: 4523
+        end: 4646
+    - title: §27
+      span:
+        start: 4647
+        end: 4682
+    - title: §28
+      span:
+        start: 4683
+        end: 4768
+    - title: §29
+      span:
+        start: 4769
+        end: 4807
+    - title: §30
+      span:
+        start: 4808
+        end: 4975
+    - title: §31
+      span:
+        start: 4976
+        end: 5090
+    - title: §32
+      span:
+        start: 5091
+        end: 5253
+    - title: Colophon
+      span:
+        start: 5254
+        end: 5267

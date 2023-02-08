@@ -1,0 +1,16 @@
+id: IF6CFAB01
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:27:40.436601
+last_modified: 2023-02-08 15:27:40.436741
+source_metadata:
+  title: 'PP: Vajracchedikā Prajñāpāramitā'
+  language: zh
+bases:
+  8DD8:
+    base_file: 8DD8.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
